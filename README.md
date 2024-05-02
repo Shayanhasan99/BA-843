@@ -1,2 +1,7 @@
 # BA-843
-Big Data
+Project contributors:
+Muhammad Shayan Hasan Irfan Khan
+Ahmed Farid Khan
+Srithijaa Sankepally
+Chih Hsin Peng
+Pei Hsin Yang
